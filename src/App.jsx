@@ -1,10 +1,11 @@
 import React from 'react'
-import ClassComponent from './component/ClassComponent'
+// import ClassComponent from './component/ClassComponent'
+import ControlleCompoent from './component/ControlleCompoent'
 
 const App = () => {
   return (
     <div>
-     <ClassComponent/>
+     <ControlleCompoent/>
     </div>
   )
 }
